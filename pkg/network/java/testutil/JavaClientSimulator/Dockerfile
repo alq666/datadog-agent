@@ -1,5 +1,5 @@
 # Base image with Java installed
-FROM openjdk:17.0.2
+FROM openjdk:23-ea-22-jdk-oraclelinux8
 MAINTAINER val
 
 # Set the working directory inside the container
