@@ -1,5 +1,5 @@
 # Base image with Java installed
-FROM openjdk:11
+FROM openjdk:17.0.2
 MAINTAINER val
 
 # Set the working directory inside the container
